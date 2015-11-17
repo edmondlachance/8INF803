@@ -14,7 +14,7 @@ Corrigé Dev 1 :
 https://drive.google.com/file/d/0B7uCxeUbnGllWmI4bm1WRjZpWm8/view?usp=sharing
 
 Devoir 2
-https://docs.google.com/document/d/1KXZOZKWDfTyW7OGfJDuHWmpVoYX5qjPsL8aqwJHlqnY/edit#
+https://docs.google.com/document/d/1KXZOZKWDfTyW7OGfJDuHWmpVoYX5qjPsL8aqwJHlqnY/edit?usp=sharing
 
 
 (Vous pouvez vous sortir un pdf)
