@@ -16,5 +16,10 @@ https://drive.google.com/file/d/0B7uCxeUbnGllWmI4bm1WRjZpWm8/view?usp=sharing
 Devoir 2
 https://docs.google.com/document/d/1KXZOZKWDfTyW7OGfJDuHWmpVoYX5qjPsL8aqwJHlqnY/edit?usp=sharing
 
+Présentation de Valère Plantevin, CRIAAC, sur MongoDB et le pipe d'agrégation
+https://github.com/VALERE91/MongoDBShardingSample
+
+
+
 
 (Vous pouvez vous sortir un pdf)
