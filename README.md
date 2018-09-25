@@ -2,8 +2,16 @@
 ## Université du Québec à Chicoutimi.
 
 Messages temporaires
-===========================
 Groupe 2 : Le cours du 28 septembre est un cours pratique. Amenez vos ordinateurs.
+
+
+
+
+
+
+
+
+
 
 
 
