@@ -1,6 +1,13 @@
 # 8INF803 - Bases de données réparties  
 ## Université du Québec à Chicoutimi.
 
+Messages temporaires
+===========================
+Groupe 2 : Le cours du 28 septembre est un cours pratique. Amenez vos ordinateurs.
+
+
+
+
 CE COURS EST OFFERT AU TRIMESTRE SUIVANT:
 Automne 2018
 Groupe 01 (CHICOUTIMI JOUR) - RÉSERVÉ
